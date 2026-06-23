@@ -10,7 +10,7 @@ The program extends the basic ASCII-Art functionality by introducing file system
 
 ## Author
 
-- Ooja Omale
+- Omale Grace
 
 ---
 
